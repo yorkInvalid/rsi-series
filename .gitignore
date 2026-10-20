@@ -1,0 +1,17 @@
+# 密钥
+.env
+
+# 配音和渲染出的大文件（视频发在抖音）
+**/video/voice/
+**/video/renders/
+**/video/assets/narration.wav
+**/video/index.html
+**/video/.hyperframes/
+.tts_cache/
+
+# 本地日志里有本机路径，结果都在 results/*.json
+*.log
+
+__pycache__/
+.DS_Store
+node_modules/

@@ -1,0 +1,3840 @@
+{
+ "judge": "self",
+ "tests": [
+  [
+   3,
+   5,
+   8,
+   12
+  ],
+  [
+   3,
+   7,
+   12,
+   12
+  ],
+  [
+   1,
+   2,
+   6,
+   13
+  ],
+  [
+   2,
+   5,
+   6,
+   6
+  ],
+  [
+   4,
+   7,
+   7,
+   11
+  ],
+  [
+   4,
+   5,
+   6,
+   13
+  ],
+  [
+   3,
+   6,
+   11,
+   11
+  ],
+  [
+   2,
+   8,
+   8,
+   8
+  ],
+  [
+   4,
+   5,
+   6,
+   7
+  ],
+  [
+   3,
+   4,
+   4,
+   7
+  ],
+  [
+   5,
+   6,
+   9,
+   9
+  ],
+  [
+   2,
+   2,
+   12,
+   13
+  ],
+  [
+   4,
+   6,
+   8,
+   10
+  ],
+  [
+   1,
+   7,
+   12,
+   13
+  ],
+  [
+   2,
+   6,
+   6,
+   7
+  ],
+  [
+   1,
+   5,
+   5,
+   6
+  ],
+  [
+   6,
+   6,
+   7,
+   9
+  ],
+  [
+   2,
+   4,
+   10,
+   13
+  ],
+  [
+   4,
+   8,
+   10,
+   11
+  ],
+  [
+   8,
+   8,
+   10,
+   13
+  ],
+  [
+   5,
+   9,
+   10,
+   11
+  ],
+  [
+   1,
+   8,
+   11,
+   12
+  ],
+  [
+   2,
+   8,
+   9,
+   10
+  ],
+  [
+   1,
+   5,
+   6,
+   8
+  ],
+  [
+   10,
+   10,
+   10,
+   12
+  ],
+  [
+   1,
+   4,
+   4,
+   6
+  ],
+  [
+   7,
+   8,
+   9,
+   10
+  ],
+  [
+   3,
+   3,
+   3,
+   6
+  ],
+  [
+   4,
+   4,
+   11,
+   12
+  ],
+  [
+   5,
+   5,
+   6,
+   6
+  ],
+  [
+   1,
+   3,
+   9,
+   10
+  ],
+  [
+   2,
+   5,
+   5,
+   11
+  ],
+  [
+   3,
+   3,
+   3,
+   5
+  ],
+  [
+   2,
+   3,
+   10,
+   10
+  ],
+  [
+   4,
+   4,
+   4,
+   11
+  ],
+  [
+   4,
+   4,
+   10,
+   10
+  ],
+  [
+   7,
+   7,
+   9,
+   10
+  ],
+  [
+   1,
+   9,
+   11,
+   11
+  ],
+  [
+   3,
+   7,
+   13,
+   13
+  ],
+  [
+   3,
+   4,
+   4,
+   4
+  ],
+  [
+   3,
+   3,
+   3,
+   9
+  ],
+  [
+   6,
+   7,
+   10,
+   10
+  ],
+  [
+   3,
+   5,
+   12,
+   12
+  ],
+  [
+   2,
+   2,
+   5,
+   7
+  ],
+  [
+   1,
+   1,
+   7,
+   10
+  ],
+  [
+   5,
+   7,
+   10,
+   13
+  ],
+  [
+   3,
+   7,
+   11,
+   11
+  ],
+  [
+   1,
+   1,
+   2,
+   7
+  ],
+  [
+   1,
+   3,
+   5,
+   11
+  ],
+  [
+   4,
+   10,
+   11,
+   13
+  ],
+  [
+   6,
+   6,
+   6,
+   11
+  ],
+  [
+   2,
+   8,
+   13,
+   13
+  ],
+  [
+   4,
+   9,
+   10,
+   11
+  ],
+  [
+   5,
+   10,
+   10,
+   11
+  ],
+  [
+   5,
+   7,
+   7,
+   9
+  ],
+  [
+   4,
+   7,
+   7,
+   7
+  ],
+  [
+   4,
+   4,
+   7,
+   10
+  ],
+  [
+   1,
+   1,
+   1,
+   8
+  ],
+  [
+   8,
+   9,
+   11,
+   11
+  ],
+  [
+   3,
+   5,
+   5,
+   6
+  ],
+  [
+   6,
+   9,
+   11,
+   13
+  ],
+  [
+   2,
+   4,
+   7,
+   7
+  ],
+  [
+   2,
+   2,
+   2,
+   11
+  ],
+  [
+   5,
+   5,
+   8,
+   8
+  ],
+  [
+   2,
+   4,
+   4,
+   13
+  ],
+  [
+   4,
+   8,
+   9,
+   9
+  ],
+  [
+   1,
+   1,
+   8,
+   8
+  ],
+  [
+   1,
+   7,
+   10,
+   13
+  ],
+  [
+   3,
+   9,
+   11,
+   11
+  ],
+  [
+   1,
+   11,
+   11,
+   13
+  ],
+  [
+   2,
+   2,
+   2,
+   9
+  ],
+  [
+   5,
+   7,
+   10,
+   11
+  ],
+  [
+   1,
+   5,
+   5,
+   12
+  ],
+  [
+   5,
+   8,
+   12,
+   12
+  ],
+  [
+   3,
+   7,
+   9,
+   13
+  ],
+  [
+   3,
+   3,
+   3,
+   11
+  ],
+  [
+   6,
+   12,
+   12,
+   13
+  ],
+  [
+   1,
+   2,
+   9,
+   11
+  ],
+  [
+   2,
+   4,
+   4,
+   9
+  ],
+  [
+   3,
+   5,
+   6,
+   13
+  ],
+  [
+   3,
+   4,
+   7,
+   8
+  ],
+  [
+   1,
+   4,
+   5,
+   13
+  ],
+  [
+   2,
+   3,
+   3,
+   11
+  ],
+  [
+   8,
+   8,
+   8,
+   11
+  ],
+  [
+   2,
+   2,
+   10,
+   11
+  ],
+  [
+   6,
+   11,
+   12,
+   12
+  ],
+  [
+   1,
+   4,
+   7,
+   11
+  ],
+  [
+   7,
+   8,
+   8,
+   9
+  ],
+  [
+   6,
+   6,
+   8,
+   13
+  ],
+  [
+   3,
+   7,
+   7,
+   12
+  ],
+  [
+   2,
+   2,
+   13,
+   13
+  ],
+  [
+   3,
+   3,
+   8,
+   8
+  ],
+  [
+   2,
+   5,
+   5,
+   10
+  ],
+  [
+   2,
+   4,
+   10,
+   10
+  ],
+  [
+   4,
+   4,
+   7,
+   7
+  ],
+  [
+   1,
+   8,
+   12,
+   12
+  ],
+  [
+   2,
+   3,
+   5,
+   12
+  ],
+  [
+   1,
+   4,
+   5,
+   6
+  ],
+  [
+   5,
+   7,
+   7,
+   11
+  ],
+  [
+   1,
+   5,
+   5,
+   5
+  ]
+ ],
+ "rounds": [
+  {
+   "round": 0,
+   "accuracy": 0.36,
+   "per_item": [
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    false,
+    true,
+    false,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    false,
+    true,
+    false,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    false,
+    true,
+    false,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    true,
+    false,
+    true
+   ],
+   "notes": "",
+   "examples": []
+  },
+  {
+   "round": 1,
+   "accuracy": 0.46,
+   "per_item": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    false,
+    false,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    false,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    false
+   ],
+   "notes": "**24点笔记**\n\n**一、优先试的套路**\n1. **凑3×8、4×6、2×12**：先看能否把四数分成两组凑成这些因数。\n2. **凑25-1、27-3、28-4**：如(13+11)×(5-4)。\n3. **分数构造**：见到1、3、4、6类，想“除以一个分数”放大，如6÷(1-3/4)。\n4. **先加减后乘除**：两两分组做差/和，再相乘，如(10-7)×(12-4)。\n5. **全同数**：6+6+6+6；3×3×3-3等。\n6. **含12、13时**：常留12/13做乘数，其余三数凑2或分数。\n\n**二、检查方法**\n- 每步必须用且只用四个数一次。\n- 先算括号内，确认中间结果为整数或可约分数。\n- 若卡住，换分组：任取两数先算，再看剩下两数能否配成目标。\n- 优先试“大数减小数”“大数除以小数”。\n\n**三、易错提醒**\n- 别漏掉“先除后减”构造分母，如1-3/4。\n- 看到两个相同数，想“相除得1”或“相加/相减”。\n- 试3次不中就先跳过，回头换“凑因数”思路。",
+   "examples": [
+    [
+     [
+      3,
+      3,
+      7,
+      7
+     ],
+     "7×(3+3÷7)=24"
+    ],
+    [
+     [
+      1,
+      3,
+      4,
+      6
+     ],
+     "6÷(1-3÷4)=24"
+    ],
+    [
+     [
+      1,
+      7,
+      9,
+      10
+     ],
+     "\\((10-7)\\times(9-1)=24\\)"
+    ],
+    [
+     [
+      5,
+      9,
+      11,
+      13
+     ],
+     "((13-9)×(11-5))"
+    ],
+    [
+     [
+      6,
+      6,
+      6,
+      6
+     ],
+     "6+6+6+6=24"
+    ],
+    [
+     [
+      7,
+      7,
+      7,
+      12
+     ],
+     "(7+7)÷7×12=24"
+    ],
+    [
+     [
+      2,
+      3,
+      10,
+      13
+     ],
+     "(13 - 10 ÷ 2) × 3 = 24"
+    ],
+    [
+     [
+      2,
+      3,
+      7,
+      11
+     ],
+     "\\((11-7)\\times3\\times2=24\\)"
+    ],
+    [
+     [
+      5,
+      6,
+      6,
+      12
+     ],
+     "\\((12-6)\\times5-6=24\\)"
+    ],
+    [
+     [
+      3,
+      3,
+      3,
+      8
+     ],
+     "8×3×(3÷3)=24"
+    ],
+    [
+     [
+      4,
+      5,
+      11,
+      13
+     ],
+     "\\((13+11)\\times(5-4)=24\\)"
+    ],
+    [
+     [
+      3,
+      8,
+      9,
+      12
+     ],
+     "((9-3)×(12-8))=24"
+    ]
+   ],
+   "practice": [
+    {
+     "puzzle": [
+      3,
+      3,
+      7,
+      7
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "7×(3+3÷7)=24"
+    },
+    {
+     "puzzle": [
+      1,
+      6,
+      6,
+      6
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      2,
+      7,
+      7,
+      10
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      1,
+      3,
+      4,
+      6
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "6÷(1-3÷4)=24"
+    },
+    {
+     "puzzle": [
+      5,
+      5,
+      7,
+      11
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      2,
+      2,
+      11,
+      11
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      3,
+      5,
+      7,
+      13
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      4,
+      6,
+      6,
+      10
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      1,
+      7,
+      9,
+      10
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 1,
+     "expr": "\\((10-7)\\times(9-1)=24\\)"
+    },
+    {
+     "puzzle": [
+      2,
+      3,
+      10,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13 - 10 ÷ 2) × 3 = 24"
+    },
+    {
+     "puzzle": [
+      6,
+      6,
+      6,
+      6
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "6+6+6+6=24"
+    },
+    {
+     "puzzle": [
+      3,
+      6,
+      6,
+      10
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      2,
+      3,
+      7,
+      11
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 1,
+     "expr": "\\((11-7)\\times3\\times2=24\\)"
+    },
+    {
+     "puzzle": [
+      1,
+      8,
+      8,
+      8
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      5,
+      6,
+      6,
+      12
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 2,
+     "expr": "\\((12-6)\\times5-6=24\\)"
+    },
+    {
+     "puzzle": [
+      3,
+      3,
+      3,
+      8
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 2,
+     "expr": "8×3×(3÷3)=24"
+    },
+    {
+     "puzzle": [
+      4,
+      5,
+      11,
+      13
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 1,
+     "expr": "\\((13+11)\\times(5-4)=24\\)"
+    },
+    {
+     "puzzle": [
+      7,
+      7,
+      7,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 3,
+     "expr": "(7+7)÷7×12=24"
+    },
+    {
+     "puzzle": [
+      4,
+      4,
+      7,
+      13
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      1,
+      5,
+      11,
+      12
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      3,
+      8,
+      9,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "((9-3)×(12-8))=24"
+    },
+    {
+     "puzzle": [
+      5,
+      9,
+      11,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "((13-9)×(11-5))"
+    },
+    {
+     "puzzle": [
+      2,
+      6,
+      9,
+      11
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 2,
+     "expr": "(11+9)+(6-2)=24"
+    },
+    {
+     "puzzle": [
+      4,
+      7,
+      10,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(10 - 7) × (12 - 4) = 24"
+    },
+    {
+     "puzzle": [
+      5,
+      8,
+      10,
+      11
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "10+11+8-5=24"
+    },
+    {
+     "puzzle": [
+      3,
+      4,
+      12,
+      13
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 3,
+     "expr": "12×((13-12)+(4-3))=24"
+    },
+    {
+     "puzzle": [
+      2,
+      8,
+      11,
+      12
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      6,
+      8,
+      9,
+      10
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    }
+   ],
+   "proposed_unsolvable": 3,
+   "gate": {
+    "quiz_size": 16,
+    "old": 2,
+    "new": 9,
+    "accepted": true
+   },
+   "candidate_notes": "**24点笔记**\n\n**一、优先试的套路**\n1. **凑3×8、4×6、2×12**：先看能否把四数分成两组凑成这些因数。\n2. **凑25-1、27-3、28-4**：如(13+11)×(5-4)。\n3. **分数构造**：见到1、3、4、6类，想“除以一个分数”放大，如6÷(1-3/4)。\n4. **先加减后乘除**：两两分组做差/和，再相乘，如(10-7)×(12-4)。\n5. **全同数**：6+6+6+6；3×3×3-3等。\n6. **含12、13时**：常留12/13做乘数，其余三数凑2或分数。\n\n**二、检查方法**\n- 每步必须用且只用四个数一次。\n- 先算括号内，确认中间结果为整数或可约分数。\n- 若卡住，换分组：任取两数先算，再看剩下两数能否配成目标。\n- 优先试“大数减小数”“大数除以小数”。\n\n**三、易错提醒**\n- 别漏掉“先除后减”构造分母，如1-3/4。\n- 看到两个相同数，想“相除得1”或“相加/相减”。\n- 试3次不中就先跳过，回头换“凑因数”思路。",
+   "accepted": true
+  },
+  {
+   "round": 2,
+   "accuracy": 0.49,
+   "per_item": [
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    true,
+    true,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    false,
+    true,
+    false,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    false,
+    true,
+    true,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true
+   ],
+   "notes": "**24点笔记**\n\n**一、优先试的套路**\n1. **凑3×8、4×6、2×12**：先看能否把四数分成两组凑成这些因数。\n2. **凑25-1、27-3、28-4**：如(13+11)×(5-4)。\n3. **分数构造**：见到1、3、4、6类，想“除以一个分数”放大，如6÷(1-3/4)。\n4. **先加减后乘除**：两两分组做差/和，再相乘，如(10-7)×(12-4)。\n5. **全同数**：6+6+6+6；3×3×3-3等。\n6. **含12、13时**：常留12/13做乘数，其余三数凑2或分数。\n\n**二、检查方法**\n- 每步必须用且只用四个数一次。\n- 先算括号内，确认中间结果为整数或可约分数。\n- 若卡住，换分组：任取两数先算，再看剩下两数能否配成目标。\n- 优先试“大数减小数”“大数除以小数”。\n\n**三、易错提醒**\n- 别漏掉“先除后减”构造分母，如1-3/4。\n- 看到两个相同数，想“相除得1”或“相加/相减”。\n- 试3次不中就先跳过，回头换“凑因数”思路。",
+   "examples": [
+    [
+     [
+      3,
+      3,
+      7,
+      7
+     ],
+     "7×(3+3÷7)=24"
+    ],
+    [
+     [
+      1,
+      3,
+      4,
+      6
+     ],
+     "6÷(1-3÷4)=24"
+    ],
+    [
+     [
+      1,
+      7,
+      9,
+      10
+     ],
+     "\\((10-7)\\times(9-1)=24\\)"
+    ],
+    [
+     [
+      5,
+      9,
+      11,
+      13
+     ],
+     "((13-9)×(11-5))"
+    ],
+    [
+     [
+      6,
+      6,
+      6,
+      6
+     ],
+     "6+6+6+6=24"
+    ],
+    [
+     [
+      7,
+      7,
+      7,
+      12
+     ],
+     "(7+7)÷7×12=24"
+    ],
+    [
+     [
+      2,
+      3,
+      10,
+      13
+     ],
+     "(13 - 10 ÷ 2) × 3 = 24"
+    ],
+    [
+     [
+      2,
+      3,
+      7,
+      11
+     ],
+     "\\((11-7)\\times3\\times2=24\\)"
+    ],
+    [
+     [
+      5,
+      6,
+      6,
+      12
+     ],
+     "\\((12-6)\\times5-6=24\\)"
+    ],
+    [
+     [
+      3,
+      3,
+      3,
+      8
+     ],
+     "8×3×(3÷3)=24"
+    ],
+    [
+     [
+      4,
+      5,
+      11,
+      13
+     ],
+     "\\((13+11)\\times(5-4)=24\\)"
+    ],
+    [
+     [
+      3,
+      8,
+      9,
+      12
+     ],
+     "((9-3)×(12-8))=24"
+    ]
+   ],
+   "practice": [
+    {
+     "puzzle": [
+      1,
+      2,
+      7,
+      7
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      1,
+      3,
+      7,
+      9
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 2,
+     "expr": "(7+1)×(9÷3)=24"
+    },
+    {
+     "puzzle": [
+      1,
+      5,
+      7,
+      11
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(11+1)×(7-5)=24"
+    },
+    {
+     "puzzle": [
+      1,
+      6,
+      7,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "12×(7-6+1)=24"
+    },
+    {
+     "puzzle": [
+      2,
+      3,
+      3,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 2,
+     "expr": "(13-3÷3)×2=24"
+    },
+    {
+     "puzzle": [
+      2,
+      4,
+      7,
+      11
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 3,
+     "expr": "(11-7)×(4+2)=24"
+    },
+    {
+     "puzzle": [
+      2,
+      5,
+      9,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "12×((9-5)÷2)=24"
+    },
+    {
+     "puzzle": [
+      2,
+      7,
+      8,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13-7)×(8÷2)=24"
+    },
+    {
+     "puzzle": [
+      3,
+      4,
+      5,
+      13
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      3,
+      6,
+      9,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 2,
+     "expr": "(13×3)-9-6=24"
+    },
+    {
+     "puzzle": [
+      4,
+      5,
+      8,
+      11
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(11-5)×(8-4)=24"
+    },
+    {
+     "puzzle": [
+      5,
+      6,
+      7,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13-7)×5-6=24"
+    },
+    {
+     "puzzle": [
+      1,
+      3,
+      3,
+      11
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 2,
+     "expr": "(11-3)×3×1=24"
+    },
+    {
+     "puzzle": [
+      1,
+      4,
+      5,
+      12
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 1,
+     "expr": "12×((5-1)÷4+1)=24"
+    },
+    {
+     "puzzle": [
+      1,
+      5,
+      8,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13-8)×5-1=24"
+    },
+    {
+     "puzzle": [
+      2,
+      2,
+      3,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "12×(3-2÷2)=24"
+    },
+    {
+     "puzzle": [
+      2,
+      3,
+      8,
+      11
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      2,
+      4,
+      5,
+      13
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      2,
+      6,
+      7,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13+7)+(6-2)=24"
+    },
+    {
+     "puzzle": [
+      2,
+      9,
+      10,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13-(10-9))×2=24"
+    },
+    {
+     "puzzle": [
+      3,
+      3,
+      5,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 2,
+     "expr": "(12−5)×3+3=24"
+    },
+    {
+     "puzzle": [
+      3,
+      4,
+      7,
+      11
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(7-4)×(11-3)=24"
+    },
+    {
+     "puzzle": [
+      4,
+      4,
+      9,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(12-9)×(4+4)=24"
+    },
+    {
+     "puzzle": [
+      5,
+      6,
+      8,
+      13
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 3,
+     "expr": "6×(13−5)÷(8−6)=24"
+    }
+   ],
+   "proposed_unsolvable": 4,
+   "gate": {
+    "quiz_size": 40,
+    "old": 19,
+    "new": 18,
+    "accepted": false
+   },
+   "candidate_notes": "**24点笔记（更新）**\n\n**一、优先试的套路**\n1. 凑3×8、4×6、2×12：先分组凑因数。\n2. 凑25-1、27-3、28-4：如(13+11)×(5-4)。\n3. 分数构造：见1、3、4、6类，想“除以分数”放大，如6÷(1-3/4)。\n4. 先加减后乘除：两两分组做差/和再相乘。\n5. 全同数：6+6+6+6；3×3×3-3。\n6. 含12、13：常留作乘数，其余三数凑2或分数。\n7. **大数配减法**：13、11等大数可先减出小目标，如13-7=6、11-5=6，再乘除。\n8. **除法造1或2**：相同数相除得1；两数差÷小数常得2，如(9-5)÷2。\n9. **三数凑24再调**：先算三数得接近24，再用第四数微调，如×1、+0、-0。\n10. **括号嵌套**：形如12×((5-1)÷4+1)，先造分数再补1。\n\n**二、检查方法**\n- 每步用且只用四数一次。\n- 先算括号内，确认中间结果为整数或可约分数。\n- 卡住就换分组：任取两数先算，看剩下两数能否配目标。\n- 优先试“大数减小数”“大数除以小数”。\n- 试3次不中先跳过，回头换“凑因数”或“分数构造”。\n\n**三、易错提醒**\n- 别漏“先除后减”造分母，如1-3/4。\n- 两个相同数想“相除得1”或“相加/相减”。\n- 含13时别只想着乘，试试先减出6、5、2。\n- 结果非整数时，检查是否可用分数约成24。",
+   "accepted": false
+  },
+  {
+   "round": 3,
+   "accuracy": 0.48,
+   "per_item": [
+    false,
+    false,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    true,
+    false,
+    true,
+    false,
+    true,
+    true,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    true,
+    false,
+    true
+   ],
+   "notes": "**24点笔记**\n\n**一、优先试的套路**\n1. **凑3×8、4×6、2×12**：先看能否把四数分成两组凑成这些因数。\n2. **凑25-1、27-3、28-4**：如(13+11)×(5-4)。\n3. **分数构造**：见到1、3、4、6类，想“除以一个分数”放大，如6÷(1-3/4)。\n4. **先加减后乘除**：两两分组做差/和，再相乘，如(10-7)×(12-4)。\n5. **全同数**：6+6+6+6；3×3×3-3等。\n6. **含12、13时**：常留12/13做乘数，其余三数凑2或分数。\n\n**二、检查方法**\n- 每步必须用且只用四个数一次。\n- 先算括号内，确认中间结果为整数或可约分数。\n- 若卡住，换分组：任取两数先算，再看剩下两数能否配成目标。\n- 优先试“大数减小数”“大数除以小数”。\n\n**三、易错提醒**\n- 别漏掉“先除后减”构造分母，如1-3/4。\n- 看到两个相同数，想“相除得1”或“相加/相减”。\n- 试3次不中就先跳过，回头换“凑因数”思路。",
+   "examples": [
+    [
+     [
+      3,
+      3,
+      7,
+      7
+     ],
+     "7×(3+3÷7)=24"
+    ],
+    [
+     [
+      1,
+      3,
+      4,
+      6
+     ],
+     "6÷(1-3÷4)=24"
+    ],
+    [
+     [
+      1,
+      7,
+      9,
+      10
+     ],
+     "\\((10-7)\\times(9-1)=24\\)"
+    ],
+    [
+     [
+      5,
+      9,
+      11,
+      13
+     ],
+     "((13-9)×(11-5))"
+    ],
+    [
+     [
+      6,
+      6,
+      6,
+      6
+     ],
+     "6+6+6+6=24"
+    ],
+    [
+     [
+      7,
+      7,
+      7,
+      12
+     ],
+     "(7+7)÷7×12=24"
+    ],
+    [
+     [
+      2,
+      3,
+      10,
+      13
+     ],
+     "(13 - 10 ÷ 2) × 3 = 24"
+    ],
+    [
+     [
+      2,
+      3,
+      7,
+      11
+     ],
+     "\\((11-7)\\times3\\times2=24\\)"
+    ],
+    [
+     [
+      5,
+      6,
+      6,
+      12
+     ],
+     "\\((12-6)\\times5-6=24\\)"
+    ],
+    [
+     [
+      3,
+      3,
+      3,
+      8
+     ],
+     "8×3×(3÷3)=24"
+    ],
+    [
+     [
+      4,
+      5,
+      11,
+      13
+     ],
+     "\\((13+11)\\times(5-4)=24\\)"
+    ],
+    [
+     [
+      3,
+      8,
+      9,
+      12
+     ],
+     "((9-3)×(12-8))=24"
+    ]
+   ],
+   "practice": [
+    {
+     "puzzle": [
+      3,
+      6,
+      6,
+      8
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 1,
+     "expr": "8×(6-3)×(6÷6)=24"
+    },
+    {
+     "puzzle": [
+      5,
+      5,
+      12,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 2,
+     "expr": "(12+12)×(5÷5)=24"
+    },
+    {
+     "puzzle": [
+      5,
+      5,
+      9,
+      9
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "5×5−9÷9=24"
+    },
+    {
+     "puzzle": [
+      8,
+      8,
+      12,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "12×(8÷8)+12=24"
+    },
+    {
+     "puzzle": [
+      1,
+      1,
+      1,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13-1)×(1+1)=24"
+    },
+    {
+     "puzzle": [
+      1,
+      2,
+      2,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 2,
+     "expr": "(13-2+1)×2=24"
+    },
+    {
+     "puzzle": [
+      1,
+      2,
+      11,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13+11)×(2-1)=24"
+    },
+    {
+     "puzzle": [
+      1,
+      3,
+      12,
+      12
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 1,
+     "expr": "12×(3-1)×(12÷12)=24"
+    },
+    {
+     "puzzle": [
+      1,
+      4,
+      9,
+      13
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      1,
+      5,
+      5,
+      13
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      1,
+      6,
+      11,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13×11+1)÷6=24"
+    },
+    {
+     "puzzle": [
+      2,
+      3,
+      5,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13+5)+3×2=24"
+    },
+    {
+     "puzzle": [
+      2,
+      4,
+      9,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13-9)×(4+2)=24"
+    },
+    {
+     "puzzle": [
+      2,
+      5,
+      5,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13-5)×(5-2)=24"
+    },
+    {
+     "puzzle": [
+      1,
+      1,
+      2,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "12×2×(1÷1)=24"
+    },
+    {
+     "puzzle": [
+      1,
+      1,
+      3,
+      8
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      1,
+      1,
+      4,
+      6
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      1,
+      1,
+      5,
+      5
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(4×3)×(2÷1)=24"
+    },
+    {
+     "puzzle": [
+      1,
+      2,
+      6,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "12×(6÷(2+1))=24"
+    },
+    {
+     "puzzle": [
+      1,
+      3,
+      3,
+      9
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      1,
+      4,
+      4,
+      10
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(10-4)×4×1=24"
+    },
+    {
+     "puzzle": [
+      1,
+      8,
+      8,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "8÷(1-8÷12)=24"
+    },
+    {
+     "puzzle": [
+      2,
+      2,
+      7,
+      10
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 2,
+     "expr": "思路：看到 10 和 7，先想凑出 3：10−7=3；剩下两个 2 可以凑成 8，即 2×(2+2) 不行，因为只有一个2？实际是 2 和 2，可做 2+2=4，再用 3×4=12 不够。换思路：用 10÷2=5，7−2=5，得到两个 5，5×5=25，再减 1 不行。试试 (10−2)×(7−2)=8×5=40 不行。再试 (10+2)×(7−2)=12×5=60 不行。考虑 7+10=17，2+2=4，不行。试 10×2=20，7−2=5，20+5=25，再减1没有。试 (7−2÷2)×? 2÷2=1，7−1=6，10−6=4，4×6=24，即 (10−(7−2÷2))×? 不对，用了10、7、2、2：10−(7−2÷2)=10−(7−1)=4，再乘剩下的？这里只剩一个数？实际上四个数：10、7、2、2。2÷2=1，7−1=6，10−6=4，还缺一个乘数？4×6 中的6已经用了，只剩4，不行。重新： (10−7+2÷2)=4，4×6不行。试试 10+7=17，2×2=4，17+4=21 不行。试 (10−2)×(7−2)=40 不行。试 (10+2)÷(7−2)=12÷5 不行。试 10×2+7−2=25 不行。试 10×2+7÷? 不。试 (10−2÷2)×? =9×? 需要 24/9 不整。试 (7+2)×(10−2)=9×8=72 不行。试 (10+7−2)×2=15×2=30 不行。试 (10−7)×(2+2)=3×4=12 不行。试 (10+2)×(7−2)=60 不行。试 (10−2)×(7−2)=40。试 (10+7+2)×2=19×2=38。试 (10−7+2)×2=5×2=10。试 (10+2−7)×2=5×2=10。试 (10÷2+7)×2=(5+7)×2=24。对！10"
+    },
+    {
+     "puzzle": [
+      2,
+      3,
+      3,
+      10
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 3,
+     "expr": "3×(10-2)×(3÷3)=24"
+    },
+    {
+     "puzzle": [
+      2,
+      6,
+      6,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13-6÷6)×2=24"
+    }
+   ],
+   "proposed_unsolvable": 9,
+   "gate": {
+    "quiz_size": 40,
+    "old": 18,
+    "new": 17,
+    "accepted": false
+   },
+   "candidate_notes": "**24点笔记（更新）**\n\n**一、优先套路**\n1. 凑3×8、4×6、2×12；先分组凑因数。\n2. 凑25-1、27-3、28-4；如(13+11)×(5-4)。\n3. 分数构造：见1、3、4、6想6÷(1-3/4)；见1、8、8、12想8÷(1-8÷12)。\n4. 先加减后乘除：两两分组做差/和再相乘。\n5. 全同数：6+6+6+6；3×3×3-3；相同数相除得1。\n6. 含12、13常留作乘数，其余三数凑2或分数。\n7. 含13时多试“13减几得目标因数”：如(13-9)×(4+2)、(13-5)×(5-2)、(13-6÷6)×2。\n8. 见到两个相同数，优先想相除得1、相加凑整、相减得0。\n9. 除法构造：如(13×11+1)÷6；先乘后加再除。\n10. 卡住时试“一个数除以分数放大”，或“先除后减构造分母”。\n\n**二、检查方法**\n- 每步用且只用四数一次。\n- 先算括号内，确认中间结果为整数或可约分数。\n- 任取两数先算，再看剩下两数能否配目标。\n- 优先试大数减小数、大数除以小数。\n- 试3次不中先跳过，回头换凑因数思路。\n\n**三、易错提醒**\n- 别漏“先除后减”构造分母，如1-3/4。\n- 两个相同数想相除得1或相加/相减。\n- 含13多试13减几；含12多留作乘数。\n- 分数构造常是破题关键，别只试整数运算。",
+   "accepted": false
+  },
+  {
+   "round": 4,
+   "accuracy": 0.5,
+   "per_item": [
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    false,
+    true
+   ],
+   "notes": "**24点笔记**\n\n**一、优先试的套路**\n1. **凑3×8、4×6、2×12**：先看能否把四数分成两组凑成这些因数。\n2. **凑25-1、27-3、28-4**：如(13+11)×(5-4)。\n3. **分数构造**：见到1、3、4、6类，想“除以一个分数”放大，如6÷(1-3/4)。\n4. **先加减后乘除**：两两分组做差/和，再相乘，如(10-7)×(12-4)。\n5. **全同数**：6+6+6+6；3×3×3-3等。\n6. **含12、13时**：常留12/13做乘数，其余三数凑2或分数。\n\n**二、检查方法**\n- 每步必须用且只用四个数一次。\n- 先算括号内，确认中间结果为整数或可约分数。\n- 若卡住，换分组：任取两数先算，再看剩下两数能否配成目标。\n- 优先试“大数减小数”“大数除以小数”。\n\n**三、易错提醒**\n- 别漏掉“先除后减”构造分母，如1-3/4。\n- 看到两个相同数，想“相除得1”或“相加/相减”。\n- 试3次不中就先跳过，回头换“凑因数”思路。",
+   "examples": [
+    [
+     [
+      3,
+      3,
+      7,
+      7
+     ],
+     "7×(3+3÷7)=24"
+    ],
+    [
+     [
+      1,
+      3,
+      4,
+      6
+     ],
+     "6÷(1-3÷4)=24"
+    ],
+    [
+     [
+      1,
+      7,
+      9,
+      10
+     ],
+     "\\((10-7)\\times(9-1)=24\\)"
+    ],
+    [
+     [
+      5,
+      9,
+      11,
+      13
+     ],
+     "((13-9)×(11-5))"
+    ],
+    [
+     [
+      6,
+      6,
+      6,
+      6
+     ],
+     "6+6+6+6=24"
+    ],
+    [
+     [
+      7,
+      7,
+      7,
+      12
+     ],
+     "(7+7)÷7×12=24"
+    ],
+    [
+     [
+      2,
+      3,
+      10,
+      13
+     ],
+     "(13 - 10 ÷ 2) × 3 = 24"
+    ],
+    [
+     [
+      2,
+      3,
+      7,
+      11
+     ],
+     "\\((11-7)\\times3\\times2=24\\)"
+    ],
+    [
+     [
+      5,
+      6,
+      6,
+      12
+     ],
+     "\\((12-6)\\times5-6=24\\)"
+    ],
+    [
+     [
+      3,
+      3,
+      3,
+      8
+     ],
+     "8×3×(3÷3)=24"
+    ],
+    [
+     [
+      4,
+      5,
+      11,
+      13
+     ],
+     "\\((13+11)\\times(5-4)=24\\)"
+    ],
+    [
+     [
+      3,
+      8,
+      9,
+      12
+     ],
+     "((9-3)×(12-8))=24"
+    ]
+   ],
+   "practice": [
+    {
+     "puzzle": [
+      1,
+      5,
+      9,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13-9)×(5+1)=24"
+    },
+    {
+     "puzzle": [
+      4,
+      7,
+      9,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "7×(13-9)-4=24"
+    },
+    {
+     "puzzle": [
+      5,
+      7,
+      11,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13-11)×(7+5)=24"
+    },
+    {
+     "puzzle": [
+      1,
+      1,
+      9,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13+9+1+1)=24"
+    },
+    {
+     "puzzle": [
+      1,
+      2,
+      13,
+      13
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      3,
+      4,
+      9,
+      13
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 2,
+     "expr": "\\((13-9+4)×3=24\\)"
+    },
+    {
+     "puzzle": [
+      4,
+      5,
+      7,
+      13
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 1,
+     "expr": "\\((13-5)\\times(7-4)=24\\)"
+    },
+    {
+     "puzzle": [
+      1,
+      11,
+      12,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13-11)×12×1=24"
+    },
+    {
+     "puzzle": [
+      2,
+      2,
+      11,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13+11)×(2÷2)=24"
+    },
+    {
+     "puzzle": [
+      4,
+      8,
+      11,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13-11)×(8+4)=24"
+    },
+    {
+     "puzzle": [
+      1,
+      2,
+      5,
+      6
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(5+1)×(6−2)=24"
+    },
+    {
+     "puzzle": [
+      1,
+      3,
+      6,
+      8
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "6×8÷(3-1)=24"
+    },
+    {
+     "puzzle": [
+      1,
+      4,
+      4,
+      7
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(4×7-4)×1=24"
+    },
+    {
+     "puzzle": [
+      1,
+      5,
+      6,
+      10
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 2,
+     "expr": "(10-6)×(5+1)=24"
+    },
+    {
+     "puzzle": [
+      2,
+      3,
+      4,
+      9
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(9+3)×(4-2)=24"
+    },
+    {
+     "puzzle": [
+      2,
+      4,
+      6,
+      8
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 2,
+     "expr": "6×(8÷4+2)=24"
+    },
+    {
+     "puzzle": [
+      2,
+      5,
+      6,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "6×(12÷(5-2))=24"
+    },
+    {
+     "puzzle": [
+      3,
+      3,
+      4,
+      4
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 3,
+     "expr": "(3×4)+(3×4)=24"
+    },
+    {
+     "puzzle": [
+      3,
+      4,
+      5,
+      6
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "6×(5+3-4)=24"
+    },
+    {
+     "puzzle": [
+      4,
+      5,
+      8,
+      9
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 2,
+     "expr": "4×(9-8+5)=24"
+    }
+   ],
+   "proposed_unsolvable": 5,
+   "gate": {
+    "quiz_size": 40,
+    "old": 22,
+    "new": 21,
+    "accepted": false
+   },
+   "candidate_notes": "**24点笔记**\n\n**一、优先试的套路**\n1. **凑3×8、4×6、2×12**：先看能否把四数分成两组凑成这些因数。\n2. **凑25-1、27-3、28-4**：如(13+11)×(5-4)。\n3. **分数构造**：见到1、3、4、6类，想“除以一个分数”放大，如6÷(1-3/4)。\n4. **先加减后乘除**：两两分组做差/和，再相乘，如(10-7)×(12-4)。\n5. **全同数**：6+6+6+6；3×3×3-3等。\n6. **含12、13时**：常留12/13做乘数，其余三数凑2或分数。\n7. **含两个相同数**：优先想“相除得1”或“相加/相减得0、2”，如(13+11)×(2÷2)。\n8. **大数配小数**：13、11常与1、2、5配，先试(13-11)=2再乘其余凑12；或(13+11)=24再让其余得1。\n9. **四数全加**：和恰为24时直接相加，如1+1+9+13。\n10. **卡住时试“先除后减”造分母**：如1-3/4、1-5/6，再用大数除。\n\n**二、检查方法**\n- 每步必须用且只用四个数一次。\n- 先算括号内，确认中间结果为整数或可约分数。\n- 若卡住，换分组：任取两数先算，再看剩下两数能否配成目标。\n- 优先试“大数减小数”“大数除以小数”。\n- 试3次不中先跳过，回头换“凑因数”或“造1/0”思路。\n\n**三、易错提醒**\n- 别漏掉“先除后减”构造分母，如1-3/4。\n- 看到两个相同数，想“相除得1”或“相加/相减”。\n- 含13、13时，可试13+13=26再减2；或13-13=0再让其余凑24。\n- 1、2、13、13可试(13-1)×2=24，但13未用尽，需再查；或(13+13-2)×1=24。",
+   "accepted": false
+  },
+  {
+   "round": 5,
+   "accuracy": 0.51,
+   "per_item": [
+    false,
+    false,
+    false,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    false,
+    true,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    true,
+    true,
+    false,
+    true,
+    true,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    true,
+    true,
+    false,
+    true,
+    false,
+    true,
+    true,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    false,
+    true,
+    true,
+    false
+   ],
+   "notes": "**24点笔记（更新）**\n\n**一、优先套路**\n1. 凑3×8、4×6、2×12；先分组凑因数。\n2. 凑25-1、27-3、28-4；如(13+11)×(5-4)。\n3. 分数构造：见1、3、4、6想“除以分数”放大，如6÷(1-3/4)。\n4. 先加减后乘除：两两分组做差/和再相乘。\n5. 全同数：6+6+6+6；3×3×3-3。\n6. 含12、13常留作乘数，其余三数凑2或分数。\n7. **新：大数配小数做除法造1或分数**，如4÷4=1、8÷(9-7)=4。\n8. **新：三数凑出接近24的数，再用第四数微调**，如13×2-10+8。\n9. **新：见连续数想“差为1/2”**，如(8-6)÷(7-6)=2。\n10. **新：先固定一个乘数，把另三数凑成24÷该数**；卡住时反过来固定除数。\n\n**二、检查方法**\n- 每数用且只用一次。\n- 先算括号，确认中间结果为整数或可约分数。\n- 卡住换分组：任取两数先算，再看剩下两数能否配目标。\n- 优先试大数减小数、大数除以小数。\n- **新：试遍“两两分组”的三种配法，别只试一种。**\n- **新：若三数已能凑24附近，试加减第四数修正。**\n\n**三、易错提醒**\n- 别漏“先除后减”造分母，如1-3/4。\n- 两相同数想相除得1，或相加/相减。\n- 试3次不中先跳过，回头换凑因数思路。\n- **新：注意“先乘后减再除”的嵌套，如12×(8-6)÷(7-6)。**\n- **新：含11、13时别急着乘，先看能否与小数凑差。**",
+   "examples": [
+    [
+     [
+      3,
+      3,
+      7,
+      7
+     ],
+     "7×(3+3÷7)=24"
+    ],
+    [
+     [
+      1,
+      3,
+      4,
+      6
+     ],
+     "6÷(1-3÷4)=24"
+    ],
+    [
+     [
+      2,
+      4,
+      7,
+      12
+     ],
+     "4×(7+2)-12=24"
+    ],
+    [
+     [
+      4,
+      7,
+      8,
+      11
+     ],
+     "4×(11−7)+8=24"
+    ],
+    [
+     [
+      1,
+      7,
+      9,
+      10
+     ],
+     "\\((10-7)\\times(9-1)=24\\)"
+    ],
+    [
+     [
+      5,
+      9,
+      11,
+      13
+     ],
+     "((13-9)×(11-5))"
+    ],
+    [
+     [
+      4,
+      6,
+      8,
+      13
+     ],
+     "8×(13-6-4)=24"
+    ],
+    [
+     [
+      2,
+      2,
+      5,
+      11
+     ],
+     "(11-5)×(2+2)=24"
+    ],
+    [
+     [
+      1,
+      8,
+      9,
+      13
+     ],
+     "8×(13-9-1)=24"
+    ],
+    [
+     [
+      2,
+      2,
+      3,
+      11
+     ],
+     "(11+3-2)×2=24"
+    ],
+    [
+     [
+      2,
+      8,
+      10,
+      13
+     ],
+     "13×2-10+8=24"
+    ],
+    [
+     [
+      3,
+      7,
+      8,
+      13
+     ],
+     "8×(13-7-3)=24"
+    ]
+   ],
+   "practice": [
+    {
+     "puzzle": [
+      2,
+      3,
+      7,
+      13
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 1,
+     "expr": "(13-7)×3×2=24"
+    },
+    {
+     "puzzle": [
+      2,
+      4,
+      7,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "4×(7+2)-12=24"
+    },
+    {
+     "puzzle": [
+      4,
+      6,
+      8,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "8×(13-6-4)=24"
+    },
+    {
+     "puzzle": [
+      2,
+      2,
+      5,
+      11
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(11-5)×(2+2)=24"
+    },
+    {
+     "puzzle": [
+      3,
+      4,
+      5,
+      10
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(10÷5)×(3×4)=24"
+    },
+    {
+     "puzzle": [
+      1,
+      8,
+      9,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "8×(13-9-1)=24"
+    },
+    {
+     "puzzle": [
+      2,
+      3,
+      10,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 3,
+     "expr": "12×(10÷2-3)=24"
+    },
+    {
+     "puzzle": [
+      1,
+      2,
+      11,
+      12
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      4,
+      7,
+      8,
+      11
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "4×(11−7)+8=24"
+    },
+    {
+     "puzzle": [
+      2,
+      5,
+      10,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13×2)-(10÷5)=24"
+    },
+    {
+     "puzzle": [
+      2,
+      2,
+      3,
+      11
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(11+3-2)×2=24"
+    },
+    {
+     "puzzle": [
+      2,
+      8,
+      10,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "13×2-10+8=24"
+    },
+    {
+     "puzzle": [
+      3,
+      3,
+      7,
+      11
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(11-7)×(3+3)=24"
+    },
+    {
+     "puzzle": [
+      3,
+      5,
+      6,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "12+6×(5-3)=24"
+    },
+    {
+     "puzzle": [
+      3,
+      7,
+      8,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 2,
+     "expr": "8×(13-7-3)=24"
+    },
+    {
+     "puzzle": [
+      4,
+      4,
+      7,
+      9
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 2,
+     "expr": "4×(7-4÷4)=24"
+    },
+    {
+     "puzzle": [
+      6,
+      7,
+      11,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(11-7)×(12-6)=24"
+    },
+    {
+     "puzzle": [
+      7,
+      8,
+      9,
+      13
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 1,
+     "expr": "8÷(9-7)×(13-7)=24"
+    },
+    {
+     "puzzle": [
+      3,
+      3,
+      7,
+      13
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      3,
+      4,
+      6,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 2,
+     "expr": "(13+3)×6÷4=24"
+    },
+    {
+     "puzzle": [
+      4,
+      4,
+      8,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13-8)×4+4=24"
+    },
+    {
+     "puzzle": [
+      4,
+      6,
+      7,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "12×(6÷(7−4))=24"
+    },
+    {
+     "puzzle": [
+      5,
+      8,
+      10,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 2,
+     "expr": "8×(10+5-12)=24"
+    },
+    {
+     "puzzle": [
+      6,
+      7,
+      8,
+      12
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 1,
+     "expr": "12×(8-6)÷(7-6)=24"
+    },
+    {
+     "puzzle": [
+      7,
+      8,
+      9,
+      12
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    }
+   ],
+   "proposed_unsolvable": 10,
+   "gate": {
+    "quiz_size": 40,
+    "old": 17,
+    "new": 19,
+    "accepted": true
+   },
+   "candidate_notes": "**24点笔记（更新）**\n\n**一、优先套路**\n1. 凑3×8、4×6、2×12；先分组凑因数。\n2. 凑25-1、27-3、28-4；如(13+11)×(5-4)。\n3. 分数构造：见1、3、4、6想“除以分数”放大，如6÷(1-3/4)。\n4. 先加减后乘除：两两分组做差/和再相乘。\n5. 全同数：6+6+6+6；3×3×3-3。\n6. 含12、13常留作乘数，其余三数凑2或分数。\n7. **新：大数配小数做除法造1或分数**，如4÷4=1、8÷(9-7)=4。\n8. **新：三数凑出接近24的数，再用第四数微调**，如13×2-10+8。\n9. **新：见连续数想“差为1/2”**，如(8-6)÷(7-6)=2。\n10. **新：先固定一个乘数，把另三数凑成24÷该数**；卡住时反过来固定除数。\n\n**二、检查方法**\n- 每数用且只用一次。\n- 先算括号，确认中间结果为整数或可约分数。\n- 卡住换分组：任取两数先算，再看剩下两数能否配目标。\n- 优先试大数减小数、大数除以小数。\n- **新：试遍“两两分组”的三种配法，别只试一种。**\n- **新：若三数已能凑24附近，试加减第四数修正。**\n\n**三、易错提醒**\n- 别漏“先除后减”造分母，如1-3/4。\n- 两相同数想相除得1，或相加/相减。\n- 试3次不中先跳过，回头换凑因数思路。\n- **新：注意“先乘后减再除”的嵌套，如12×(8-6)÷(7-6)。**\n- **新：含11、13时别急着乘，先看能否与小数凑差。**",
+   "accepted": true
+  },
+  {
+   "round": 6,
+   "accuracy": 0.47,
+   "per_item": [
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    true,
+    false,
+    true,
+    true,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    true,
+    true,
+    false,
+    true,
+    true,
+    false,
+    true,
+    false,
+    true,
+    true,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    true,
+    false,
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false
+   ],
+   "notes": "**24点笔记（更新）**\n\n**一、优先套路**\n1. 凑3×8、4×6、2×12；先分组凑因数。\n2. 凑25-1、27-3、28-4；如(13+11)×(5-4)。\n3. 分数构造：见1、3、4、6想“除以分数”放大，如6÷(1-3/4)。\n4. 先加减后乘除：两两分组做差/和再相乘。\n5. 全同数：6+6+6+6；3×3×3-3。\n6. 含12、13常留作乘数，其余三数凑2或分数。\n7. 大数配小数做除法造1或分数，如4÷4=1、8÷(9-7)=4。\n8. 三数凑出接近24的数，再用第四数微调，如13×2-10+8。\n9. 见连续数想“差为1/2”，如(8-6)÷(7-6)=2。\n10. 先固定一个乘数，把另三数凑成24÷该数；卡住时反过来固定除数。\n11. **新：见5、7、9、12类，先试(大-小)×(中÷小)或两两差相乘；如(12-9)×(7+? )不成，改(9-5)×(12-7)=20再调。**\n12. **新：含13、11时优先试“13-?=目标差”，如13-5=8，再让另两数凑3或8。**\n13. **新：三数难凑时，先做出一对差为1、2、3、4，再与第四数乘除。**\n\n**二、检查方法**\n- 每数用且只用一次。\n- 先算括号，确认中间结果为整数或可约分数。\n- 卡住换分组：任取两数先算，再看剩下两数能否配目标。\n- 优先试大数减小数、大数除以小数。\n- 试遍“两两分组”的三种配法，别只试一种。\n- 若三数已能凑24附近，试加减第四数修正。\n- **新：卡住时列“两数结果表”（和差积商），再配对看能否到24。**\n- **新：先找能造1、2、3、4、6、8的组合，再乘除放大。**\n\n**三、易错提醒**\n- 别漏“先除后减”造分母，如1-3/4。\n- 两相同数想相除得1，或相加/相减。\n- 试3次不中先跳过，回头换凑因数思路。\n- 注意“先乘后减再除”的嵌套，如12×(8-6)÷(7-6)。\n- 含11、13时别急着乘，先看能否与小数凑差。\n- **新：别只盯乘法，先做减法造小因数再乘。**\n- **新：两两分组失败后，试“三数先算再配第四数”。",
+   "examples": [
+    [
+     [
+      3,
+      3,
+      7,
+      7
+     ],
+     "7×(3+3÷7)=24"
+    ],
+    [
+     [
+      1,
+      3,
+      4,
+      6
+     ],
+     "6÷(1-3÷4)=24"
+    ],
+    [
+     [
+      2,
+      4,
+      7,
+      12
+     ],
+     "4×(7+2)-12=24"
+    ],
+    [
+     [
+      4,
+      7,
+      8,
+      11
+     ],
+     "4×(11−7)+8=24"
+    ],
+    [
+     [
+      1,
+      7,
+      9,
+      10
+     ],
+     "\\((10-7)\\times(9-1)=24\\)"
+    ],
+    [
+     [
+      5,
+      9,
+      11,
+      13
+     ],
+     "((13-9)×(11-5))"
+    ],
+    [
+     [
+      1,
+      5,
+      12,
+      12
+     ],
+     "12×(12÷(5+1))=24"
+    ],
+    [
+     [
+      1,
+      8,
+      11,
+      13
+     ],
+     "(13-11+1)×8=24"
+    ],
+    [
+     [
+      1,
+      6,
+      10,
+      13
+     ],
+     "(13-10+1)×6=24"
+    ],
+    [
+     [
+      2,
+      8,
+      8,
+      13
+     ],
+     "(13-8÷8)×2=24"
+    ],
+    [
+     [
+      5,
+      9,
+      12,
+      12
+     ],
+     "12÷(9-5)×12-12=24"
+    ],
+    [
+     [
+      2,
+      5,
+      11,
+      12
+     ],
+     "(11-5)×(12÷2)=24"
+    ]
+   ],
+   "practice": [
+    {
+     "puzzle": [
+      3,
+      7,
+      10,
+      13
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 1,
+     "expr": "3×(7+13-10)=24"
+    },
+    {
+     "puzzle": [
+      2,
+      7,
+      9,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "13×2−9+7=24"
+    },
+    {
+     "puzzle": [
+      5,
+      7,
+      9,
+      12
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      4,
+      5,
+      10,
+      13
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 1,
+     "expr": "(13-10)×(5+4)=24"
+    },
+    {
+     "puzzle": [
+      5,
+      5,
+      12,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13+12)-5÷5=24"
+    },
+    {
+     "puzzle": [
+      1,
+      5,
+      12,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "12×(12÷(5+1))=24"
+    },
+    {
+     "puzzle": [
+      4,
+      6,
+      8,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "12×(8+4)÷6=24"
+    },
+    {
+     "puzzle": [
+      2,
+      7,
+      7,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 3,
+     "expr": "12×2×(7÷7)=24"
+    },
+    {
+     "puzzle": [
+      1,
+      8,
+      11,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 2,
+     "expr": "(13-11+1)×8=24"
+    },
+    {
+     "puzzle": [
+      3,
+      6,
+      9,
+      12
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 1,
+     "expr": "(12×6)÷(9−6)=24"
+    },
+    {
+     "puzzle": [
+      1,
+      6,
+      10,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13-10+1)×6=24"
+    },
+    {
+     "puzzle": [
+      2,
+      8,
+      8,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13-8÷8)×2=24"
+    },
+    {
+     "puzzle": [
+      3,
+      5,
+      10,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "12×(10-5-3)=24"
+    },
+    {
+     "puzzle": [
+      2,
+      7,
+      11,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(11−7)×(12÷2)=24"
+    },
+    {
+     "puzzle": [
+      3,
+      5,
+      8,
+      13
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      4,
+      6,
+      9,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 2,
+     "expr": "(9-6)×(12-4)=24"
+    },
+    {
+     "puzzle": [
+      5,
+      9,
+      12,
+      12
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 3,
+     "expr": "12÷(9-5)×12-12=24"
+    },
+    {
+     "puzzle": [
+      3,
+      7,
+      8,
+      11
+     ],
+     "judged_right": false,
+     "really_right": false,
+     "tries": 3,
+     "expr": null
+    },
+    {
+     "puzzle": [
+      1,
+      3,
+      10,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 3,
+     "expr": "10+12+3-1=24"
+    },
+    {
+     "puzzle": [
+      2,
+      5,
+      11,
+      12
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 2,
+     "expr": "(11-5)×(12÷2)=24"
+    },
+    {
+     "puzzle": [
+      4,
+      7,
+      8,
+      13
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 1,
+     "expr": "(13-7)×(8-4)=24"
+    },
+    {
+     "puzzle": [
+      1,
+      2,
+      9,
+      13
+     ],
+     "judged_right": true,
+     "really_right": false,
+     "tries": 1,
+     "expr": "(13-9)×(1+2)=24"
+    },
+    {
+     "puzzle": [
+      3,
+      8,
+      12,
+      12
+     ],
+     "judged_right": true,
+     "really_right": true,
+     "tries": 2,
+     "expr": "8×12÷(12÷3)=24"
+    }
+   ],
+   "proposed_unsolvable": 8,
+   "gate": {
+    "quiz_size": 40,
+    "old": 16,
+    "new": 18,
+    "accepted": true
+   },
+   "candidate_notes": "**24点笔记（更新）**\n\n**一、优先套路**\n1. 凑3×8、4×6、2×12；先分组凑因数。\n2. 凑25-1、27-3、28-4；如(13+11)×(5-4)。\n3. 分数构造：见1、3、4、6想“除以分数”放大，如6÷(1-3/4)。\n4. 先加减后乘除：两两分组做差/和再相乘。\n5. 全同数：6+6+6+6；3×3×3-3。\n6. 含12、13常留作乘数，其余三数凑2或分数。\n7. 大数配小数做除法造1或分数，如4÷4=1、8÷(9-7)=4。\n8. 三数凑出接近24的数，再用第四数微调，如13×2-10+8。\n9. 见连续数想“差为1/2”，如(8-6)÷(7-6)=2。\n10. 先固定一个乘数，把另三数凑成24÷该数；卡住时反过来固定除数。\n11. **新：见5、7、9、12类，先试(大-小)×(中÷小)或两两差相乘；如(12-9)×(7+? )不成，改(9-5)×(12-7)=20再调。**\n12. **新：含13、11时优先试“13-?=目标差”，如13-5=8，再让另两数凑3或8。**\n13. **新：三数难凑时，先做出一对差为1、2、3、4，再与第四数乘除。**\n\n**二、检查方法**\n- 每数用且只用一次。\n- 先算括号，确认中间结果为整数或可约分数。\n- 卡住换分组：任取两数先算，再看剩下两数能否配目标。\n- 优先试大数减小数、大数除以小数。\n- 试遍“两两分组”的三种配法，别只试一种。\n- 若三数已能凑24附近，试加减第四数修正。\n- **新：卡住时列“两数结果表”（和差积商），再配对看能否到24。**\n- **新：先找能造1、2、3、4、6、8的组合，再乘除放大。**\n\n**三、易错提醒**\n- 别漏“先除后减”造分母，如1-3/4。\n- 两相同数想相除得1，或相加/相减。\n- 试3次不中先跳过，回头换凑因数思路。\n- 注意“先乘后减再除”的嵌套，如12×(8-6)÷(7-6)。\n- 含11、13时别急着乘，先看能否与小数凑差。\n- **新：别只盯乘法，先做减法造小因数再乘。**\n- **新：两两分组失败后，试“三数先算再配第四数”。",
+   "accepted": true
+  }
+ ],
+ "tokens": {
+  "in": 508410,
+  "out": 370675
+ },
+ "cost_cny": 1.991
+}
